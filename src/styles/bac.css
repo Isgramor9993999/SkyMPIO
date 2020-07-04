@@ -1,0 +1,16 @@
+
+
+.titleo {
+    background-size: cover;
+    background-position: center center;      
+    background-repeat: no-repeat;      
+    z-index: 0;
+
+}
+
+header {
+    z-index: 1;
+}
+header li{
+    position: absolute;
+}
