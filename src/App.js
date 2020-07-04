@@ -1,23 +1,23 @@
 import React from 'react';
 import './styles/index.css';
-import './styles/bac.css';
-import bac from './img/bac.jpg';
-
+import './styles/App.css';
 
 function App() {
   return (
-    <div>
-    <div className="h-screen w-screen fixed bg-left-top titleo" style={{backgroundImage: `url(${bac})`,}}></div>
-    <header className="z-1">
-    <ul className="ml-0 pl-0 ">
-      <li className="list-none">Platform</li>
-      <li>Docs</li>
-    </ul>
-    </header>
-    </div>
-
-    
-    
+    <div className="main">
+      <header className="absolute App-header ">
+        <ul className="App-ul ">
+          <li ><a href="url">platform</a></li>
+          <li ><a href="url">docs</a></li>
+        </ul>
+      </header>
+      <div className="dop-block">
+        <div className="con">
+          <h1 className="skyN">SkyMP</h1>
+          <button className="btn">Download</button>
+        </div>
+      </div>
+    </div>   
   );
   
 }
