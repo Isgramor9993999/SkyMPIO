@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/skymp/static/css/main.228f3b60.chunk.css",
+    "main.js": "/skymp/static/js/main.3f3dd45a.chunk.js",
+    "main.js.map": "/skymp/static/js/main.3f3dd45a.chunk.js.map",
+    "runtime-main.js": "/skymp/static/js/runtime-main.f81902da.js",
+    "runtime-main.js.map": "/skymp/static/js/runtime-main.f81902da.js.map",
+    "static/js/2.d63b154d.chunk.js": "/skymp/static/js/2.d63b154d.chunk.js",
+    "static/js/2.d63b154d.chunk.js.map": "/skymp/static/js/2.d63b154d.chunk.js.map",
+    "index.html": "/skymp/index.html",
+    "precache-manifest.97ce939c9e8fdbb4b20e8f6190aef790.js": "/skymp/precache-manifest.97ce939c9e8fdbb4b20e8f6190aef790.js",
+    "service-worker.js": "/skymp/service-worker.js",
+    "static/css/main.228f3b60.chunk.css.map": "/skymp/static/css/main.228f3b60.chunk.css.map",
+    "static/js/2.d63b154d.chunk.js.LICENSE.txt": "/skymp/static/js/2.d63b154d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/skymp/static/media/San-Francisco.9e14b4e7.ttf",
+    "static/media/bac.jpg": "/skymp/static/media/bac.261b9e88.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f81902da.js",
+    "static/js/2.d63b154d.chunk.js",
+    "static/css/main.228f3b60.chunk.css",
+    "static/js/main.3f3dd45a.chunk.js"
+  ]
+}
